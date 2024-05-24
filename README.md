@@ -20,4 +20,12 @@ node quack
 
 <img src="./img/2.png" />
 
-> From https://mhqb365.com with ♥
+## Video hướng dẫn chạy trên Windows:
+
+> https://www.tiktok.com/@mhqb365/video/7372425010016718097
+
+## Video hướng dẫn chạy trên MacOS:
+
+> https://www.tiktok.com/@mhqb365/video/7372426676287851792
+
+From https://mhqb365.com with ♥
